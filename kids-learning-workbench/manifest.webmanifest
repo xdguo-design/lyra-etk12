@@ -1,0 +1,10 @@
+{
+  "name": "小小冒险家学习台",
+  "short_name": "冒险家",
+  "description": "儿童涂鸦墙学习：语数英地理天文与游戏",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#12062e",
+  "theme_color": "#1a0a3e",
+  "orientation": "any"
+}
